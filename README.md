@@ -1,6 +1,5 @@
-## je suis domage cerebral du par asssembly 
-<!--
-**CURT-Elien-2326035a/CURT-Elien-2326035a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## un pain au top svp
+<!--**CURT-Elien-2326035a/CURT-Elien-2326035a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
